@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AnimationApplication</string>
+    <string name="drawable_activity">Drawable Activity</string>
+    <string name="cart_activity">Cart Activity</string>
+    <string name="property_activity">Property Activity</string>
+    <string name="scale">Scale</string>
+    <string name="alpha">Alpha</string>
+    <string name="rotate">Rotate</string>
+    <string name="translate">Translate</string>
+    <string name="bounce">Bounce</string>
+    <string name="decelerate">Decelerate</string>
+    <string name="accelerate">Accelerate</string>
+    <string name="linear">Linear</string>
+    <string name="interpolators">Interpolators</string>
+    <string name="gio_hang">Giỏ hàng</string>
+</resources>
